@@ -26,7 +26,7 @@
             return long
         }
         var longword = longFriend(friend)
-        console.log(longword)
+        document.write(longword)
 
 
     </script>
